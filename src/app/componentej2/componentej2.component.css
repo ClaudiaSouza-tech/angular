@@ -1,0 +1,13 @@
+/* Hoja de estilo CSS del componente componentej2  */
+h3 {
+    color: #af0c0c;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  p {
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    color: #6d4abd;
+  }

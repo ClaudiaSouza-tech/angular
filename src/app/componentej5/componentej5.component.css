@@ -1,0 +1,39 @@
+
+.header {
+    padding: 50px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+
+  nav{
+     background:darkgreen ;
+  }
+
+  nav a{
+    color:beige;
+  }
+
+  nav ul{
+    list-style: none;
+  }
+
+  nav ul li {
+    padding: 10px;
+    display: inline-block;
+  }
+
+  nav ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  nav ul li ul{
+    display: none;
+  }
+
+  h3{
+    color:rgb(61, 82, 20);
+    font-style: oblique;
+    font-weight: bolder;
+  }
